@@ -1,0 +1,19 @@
+[Plugin]
+
+Loader=python
+
+Module=sqlcomand
+
+IAge=3
+
+Name=Sql Comand
+
+Description=Un plugin SQL
+
+Authors=Mario Alberto Hernandez Hernandez
+
+Copyright=Copyright © 2014 Mario Alberto Hernandez Hernandez
+
+Website=http://www.ejemplo.com
+
+Version=3.0.0
